@@ -9,7 +9,7 @@
 
 Install dependencies:
 ```
-npm i -D eslint @vn/eslint-config
+yarn add -D eslint @vn/eslint-config
 ```
 Inside `.eslintrc.json`
 ```
