@@ -1,6 +1,6 @@
 {
-  "name": "@vn/eslint-config",
-  "private": true,
+  "name": "eslint-config-vn",
+  "private": false,
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
